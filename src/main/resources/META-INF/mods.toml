@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+issueTrackerURL="https://github.com/yourusername/doublejumpmod/issues"
+
+[[mods]]
+modId="doublejumpmod"
+version="1.0.0"
+displayName="Double Jump Mod"
+description='''Adds a double jump enchantment with customizable cooldowns and potions.'''
+logoFile="assets/doublejumpmod/logo.png"
+
+
+[[dependencies.doublejumpmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
+authors="Tako"
